@@ -1,0 +1,16 @@
+I:\j技术歷練\AE Tools\GeometryRepairer\GeometryRepairer\bin\Debug\BatchTools.exe
+I:\j技术歷練\AE Tools\GeometryRepairer\GeometryRepairer\bin\Debug\BatchTools.pdb
+I:\j技术歷練\AE Tools\GeometryRepairer\GeometryRepairer\obj\Debug\ResolveAssemblyReference.cache
+I:\j技术歷練\AE Tools\GeometryRepairer\GeometryRepairer\obj\Debug\BatchTools.FrmMain.resources
+I:\j技术歷練\AE Tools\GeometryRepairer\GeometryRepairer\obj\Debug\BatchTools.Properties.Resources.resources
+I:\j技术歷練\AE Tools\GeometryRepairer\GeometryRepairer\obj\Debug\Batch Tools.csproj.GenerateResource.Cache
+I:\j技术歷練\AE Tools\GeometryRepairer\GeometryRepairer\obj\Debug\BatchTools.exe
+I:\j技术歷練\AE Tools\GeometryRepairer\GeometryRepairer\obj\Debug\BatchTools.pdb
+I:\j技术歷練\git\projects\Github\BatchGISTools\Batch Tools\Batch Tools\obj\Debug\BatchTools.exe
+I:\j技术歷練\git\projects\Github\BatchGISTools\Batch Tools\Batch Tools\obj\Debug\BatchTools.pdb
+I:\j技术歷練\git\projects\Github\BatchGISTools\Batch Tools\Batch Tools\bin\Debug\BatchTools.exe
+I:\j技术歷練\git\projects\Github\BatchGISTools\Batch Tools\Batch Tools\bin\Debug\BatchTools.pdb
+I:\j技术歷練\git\projects\Github\BatchGISTools\Batch Tools\Batch Tools\obj\Debug\ResolveAssemblyReference.cache
+I:\j技术歷練\git\projects\Github\BatchGISTools\Batch Tools\Batch Tools\obj\Debug\BatchTools.FrmMain.resources
+I:\j技术歷練\git\projects\Github\BatchGISTools\Batch Tools\Batch Tools\obj\Debug\BatchTools.Properties.Resources.resources
+I:\j技术歷練\git\projects\Github\BatchGISTools\Batch Tools\Batch Tools\obj\Debug\Batch Tools.csproj.GenerateResource.Cache

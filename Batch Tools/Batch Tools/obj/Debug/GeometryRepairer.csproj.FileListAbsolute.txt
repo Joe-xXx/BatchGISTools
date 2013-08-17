@@ -1,0 +1,8 @@
+I:\j技术歷練\AE Tools\GeometryRepairer\GeometryRepairer\bin\Debug\GeometryRepairer.exe
+I:\j技术歷練\AE Tools\GeometryRepairer\GeometryRepairer\bin\Debug\GeometryRepairer.pdb
+I:\j技术歷練\AE Tools\GeometryRepairer\GeometryRepairer\obj\Debug\ResolveAssemblyReference.cache
+I:\j技术歷練\AE Tools\GeometryRepairer\GeometryRepairer\obj\Debug\GeometryRepairer.FrmMain.resources
+I:\j技术歷練\AE Tools\GeometryRepairer\GeometryRepairer\obj\Debug\GeometryRepairer.Properties.Resources.resources
+I:\j技术歷練\AE Tools\GeometryRepairer\GeometryRepairer\obj\Debug\GeometryRepairer.csproj.GenerateResource.Cache
+I:\j技术歷練\AE Tools\GeometryRepairer\GeometryRepairer\obj\Debug\GeometryRepairer.exe
+I:\j技术歷練\AE Tools\GeometryRepairer\GeometryRepairer\obj\Debug\GeometryRepairer.pdb

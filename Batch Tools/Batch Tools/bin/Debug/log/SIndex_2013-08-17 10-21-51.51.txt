@@ -1,0 +1,1 @@
+Executing: AddSpatialIndex J:\Land_Data\ProjectData\fangshan_8638\房山\test.shp 0 0 0 Start Time: Sat Aug 17 10:21:57 2013 Succeeded at Sat Aug 17 10:21:57 2013 (Elapsed Time: 0.00 seconds) 
